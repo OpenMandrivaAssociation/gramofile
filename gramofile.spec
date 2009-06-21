@@ -1,13 +1,13 @@
 %define name gramofile
 %define version 1.6
-%define release %mkrel 12
+%define release %mkrel 13
 
 Name: %{name}
 Version: %{version}
 Release: %{release}
-License: GPL
+License: GPL+
 Group: Sound
-URL: http://panic.et.tudelft.nl/~costar/gramofile/
+URL: http://www.opensourcepartners.nl/~costar/gramofile/
 Source: %{name}-%{version}.tar.bz2
 Patch0: tappin3a.patch.bz2
 Patch1: tappin3b.patch.bz2

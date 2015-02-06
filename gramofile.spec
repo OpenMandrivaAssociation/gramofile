@@ -1,6 +1,6 @@
 %define name gramofile
 %define version 1.6
-%define release 14
+%define release 15
 
 Name: %{name}
 Version: %{version}

@@ -7,7 +7,7 @@ Version: %{version}
 Release: %{release}
 License: GPL+
 Group: Sound
-URL: http://www.opensourcepartners.nl/~costar/gramofile/
+URL: https://www.opensourcepartners.nl/~costar/gramofile/
 Source: %{name}-%{version}.tar.bz2
 Patch0: tappin3a.patch.bz2
 Patch1: tappin3b.patch.bz2

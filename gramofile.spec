@@ -13,6 +13,7 @@ Patch0: tappin3a.patch.bz2
 Patch1: tappin3b.patch.bz2
 Patch2: gramofile-braille-patch.bz2
 Summary: Transfer sound from gramophone records to CD
+BuildRequires:	make
 BuildRequires: ncurses-devel
 BuildRequires: fftw2-devel
 

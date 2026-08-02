@@ -1,5 +1,5 @@
 sources:
-  "gramofile-1.6.tar.bz2": 88cf0ad622448adae1916455274091b74bade5b9
-  "gramofile-braille-patch.bz2": d5ae27c03510fadc70d718e04daa9d97fda45e68
-  "tappin3a.patch.bz2": 5d70fe9144c88b992654900d47d040ae9e70c618
-  "tappin3b.patch.bz2": 510139b1ac92f3c70d013f8b4a44892ad8b649ba
+  gramofile-1.6P.tar.bz2: dbbe6c4fb741041f05cd410443df82d10620ebf6
+  tappin3a.patch.bz2: 4aa47f99f5a06ed7e0a61c7e1b80ce9e05c1e615
+  tappin3b.patch.bz2: 22f6889171016d8bf711aaada8ee38f1895f86ee
+  gramofile-braille-patch.bz2: fdd50f289ff4c52364ac8656b65970275a9bc792
